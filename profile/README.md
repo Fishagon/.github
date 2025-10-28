@@ -1,3 +1,8 @@
+<p align="center">
+    <a href="https://fishagon.com/">
+        <img src="https://fishagon.com/images/fishagon.png"/>
+</a></p>
+
 Welcome to the Fishagon Github Page
 
 [Website](https://fishagon.com) | [Steam Page](https://store.steampowered.com/publisher/fishagon) | [Itch.io](https://fishagon.itch.io) | [UnityAssetStore](https://assetstore.unity.com/publishers/25782)
