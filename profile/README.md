@@ -24,6 +24,9 @@ If you want to support any of our projects, consider buying any of our Steam tit
     <a href="https://store.steampowered.com/app/713740/Train_Your_Minibot?utm_source=github">
         <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/713740/header.jpg" alt="TrainYourMinibot" width="250"/>
     </a>
+    <a href="https://store.steampowered.com/app/720190/Wizards?utm_source=github">
+        <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720190/71a5b98a76336fd59b936459d72b260e116afd41/header.jpg?t=1791665134" alt="Wizards" width="250"/>
+    </a>
     <a href="https://store.steampowered.com/app/1792500/Boring_Movies?utm_source=github">
         <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1792500/header.jpg?t=1754577490" alt="BoringMovies" width="250"/>
     </a>
